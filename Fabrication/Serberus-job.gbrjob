@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.7"
     },
-    "CreationDate": "2024-02-05T14:51:40-08:00"
+    "CreationDate": "2024-05-17T14:43:21-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Serberus",
       "GUID": "53657262-6572-4757-932e-6b696361645f",
-      "Revision": "V2.1"
+      "Revision": "V2.2"
     },
     "Size": {
       "X": 65.05,
