@@ -29,7 +29,6 @@ fp-info-cache
 # Gerbers
 *.zip
 *gerber*
-tigard-prod/
 
 # Rescues
 *-rescue.dcm
