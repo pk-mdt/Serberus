@@ -19,7 +19,8 @@
 ## System Requirements
 No drivers should be required, the FTDI devices are supported by most operating systems.
 The UART ports will work right away with screen, putty or your favorite serial console application.
-## What makes the Serberus unique is the following:
+## What makes the Serberus unique:
+The Serberus is based on a couple of earlier FTDI USB to TTL tools, the TIMEP and the TIGARD. The items below are some of the major changes from those designs.
 - 3 UART Ports
 - J-Link Compatible JTAG connector - use any of those J-link to XXX connectors or breakouts
 - Indicators for each of the 4 serial channels - help debugging
