@@ -37,7 +37,7 @@ todo
 todo
 ## SWD
 todo
-## Logc Analyzer
+## Logic Analyzer
 The 14 pin header at the bottom next to the SPI and I2C connectors replicates most of the signal lines for easy connection to a logic analyzer or digital MSO lines of an oscilloscope.
 
 ## License
