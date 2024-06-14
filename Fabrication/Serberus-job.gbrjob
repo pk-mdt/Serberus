@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.7"
     },
-    "CreationDate": "2024-05-17T14:43:21-07:00"
+    "CreationDate": "2024-05-31T12:22:19-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -94,6 +94,11 @@
     {
       "Path": "Serberus-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Serberus-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
       "FilePolarity": "Positive"
     }
   ],
