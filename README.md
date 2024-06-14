@@ -19,15 +19,23 @@
 ## System Requirements
 No drivers should be required, the FTDI devices are supported by most operating systems.
 The UART ports will work right away with screen, putty or your favorite serial console application.
-## What makes the Serberus unique is the following:
+## Basic Usage
+todo
+## What makes the Serberus unique:
+The Serberus is based on a couple of earlier FTDI USB to TTL tools, the TIMEP and the TIGARD. The items below are some of the major changes from those designs.
 - 3 UART Ports
 - J-Link Compatible JTAG connector - use any of those J-link to XXX connectors or breakouts
 - Indicators for each of the 4 serial channels - help debugging
 - 2.54 MM Logic Analyzer connector - Easily connect the most common logic analyzers or an MSO scope
+## SWITCH 1
+todo
+## SWITCH 2
+todo
 ## UART
 The top connector has 3 UART connections, the first UART has all 7 signal pins connected, for those rare instances where they are needed. The first UART is mapped to the first 4233 channel.
 <br>
 The second and third UARTS are mapped to the 3rd and 4th channels ports, as the second is used by the combined JTAG/SWD/I2C and SPI port. These ports only have TX and RX connected.
+pinout todo
 ## JTAG
 todo
 ## SPI
@@ -36,9 +44,9 @@ todo
 todo
 ## SWD
 todo
-## Logc Analyzer
+## Logic Analyzer
 The 14 pin header at the bottom next to the SPI and I2C connectors replicates most of the signal lines for easy connection to a logic analyzer or digital MSO lines of an oscilloscope.
-
+pinout todo
 ## License
 Released under the Apache 2.0 License all gerbers and Kicad project files are attached
 ## How do I get one? 
