@@ -7,4 +7,4 @@
 
 
 # OVERVIEW
-Note: this product has moved to Google's github at https://github.com/google.serberus-a
+Note: this product has moved to Google's github at https://github.com/google/serberus
